@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link href="~/Content/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/proyect/styleinicio.css" rel="stylesheet" />
+    <link href="~/Content/bootsnip/navbar.css" rel="stylesheet" />
+    <link href="~/Content/datepicker/css/bootstrap-datepicker.min.css" rel="stylesheet" />
+
+    <!--<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="~/Content/proyect/styleinicio.css" rel="stylesheet" />
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>-->
+    @Scripts.Render("~/bundles/jquery")
+
+
+    <script src="~/Scripts/jquery.min.js"></script>
+    <!--<script src="~/Content/proyect/inicio.js"></script>-->
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/Content/datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script src="~/Content/datepicker/locales/bootstrap-datepicker.es.min.js"></script>
+    <script src="~/Content/otherjs/feather.min.js"></script>
+
+</head>
+<!--CONTIENE LA PLANTILLA QUE CONTIENE EL DISEÑO COMUN QUE VAN A TENER TOAS LAS PAGINAS-->
+<body>
+    <br />
+    <br />
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Farmacia galeras</a>
+        <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap">
+                <a class="nav-link" href="#"></a>@Html.ActionLink("Cerrar sesión", "index", "Home")
+            </li>
+        </ul>
+    </nav>
+    <!--
+        <div class="container-fluid">
+        <div class="row">
+            <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+                <div class="sidebar-sticky">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-pills active" href="#">
+                                <span data-feather="archive" class="sr-only-focusable">@Html.ActionLink(" Inventario", "inventario", "Inventario")</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-pills" href="#">
+                                <span data-feather="truck">@Html.ActionLink(" Domicilios", "domicilios", "Domicilio")</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-pills" href="#">
+                                <span data-feather="file-text">@Html.ActionLink(" PQF", "pqr", "Pqrf")</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+        -->
+    <div class="nav-side-menu">
+        <br />
+        <br />
+        
+        <div class="brand"></div>
+        <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+        <div class="menu-list">
+            <ul id="menu-content" class="menu-content collapse out">
+                <li>
+                    <a>
+                        <i class="fa fa-home fa-lg"></i>@Html.ActionLink(" Inicio", "inicio", "Inicio")
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fa fa-archive fa-lg"></i>@Html.ActionLink(" Inventario", "inventario", "Inventario")
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fa fa-truck fa-lg"></i>@Html.ActionLink(" Domicilios", "domicilios", "Domicilio")
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fa fa-file-text fa-lg"></i>@Html.ActionLink(" PQF", "pqr", "Pqrf")
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        <i class="fa fa-file-text fa-lg"></i>@Html.ActionLink(" Reportes", "Reporte", "Reporte")
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    @RenderBody()<!--NO SE PUEDE BORRAR-->
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+<script>
+    $('.datepicker').datepicker({
+        format: 'dd/mm/yyyy',
+        languaje: "es",
+        autoclose: true
+    });
+</script>

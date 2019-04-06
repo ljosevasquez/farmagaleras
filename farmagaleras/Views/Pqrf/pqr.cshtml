@@ -1,0 +1,131 @@
+﻿@{
+    ViewBag.Title = "pqr";
+}
+
+<div class="container-fluid">
+    <!--<div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-pills active" href="#">
+                            <span data-feather="archive" class="sr-only-focusable">@Html.ActionLink(" Inventario", "inventario", "Inventario")</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-pills" href="#">
+                            <span data-feather="truck">@Html.ActionLink(" Domicilios", "domicilios", "Domicilio")</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-pills" href="#">
+                            <span data-feather="file-text">@Html.ActionLink(" PQF", "pqr", "Pqrf")</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        -->
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h2">Registrar Petici&oacute;n, Quejas o Felicitaci&oacute;n</h1>
+            <div class="btn-toolbar mb-2 mb-md-0">
+                <div class="btn-group mr-2">
+                    <button class="btn btn-sm btn-outline-secondary">Exportar</button>
+                </div>
+            </div>
+        </div>
+        <form action="" method="post">
+            <div class="">
+                <div class="btn-toolbar mb-2 mb-md-0">
+                    <div class="btn-group mr-2">
+                        <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
+                    </div>
+                </div>
+                <br />
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">PQF</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <div class="form-group">
+                                        <label for="NombreCompleto">Nombres completos</label>
+                                        <input id="NombreCompleto" name="NombreCompleto" type="text" class="form-control" placeholder="Ingresar nombre completo" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="form-group">
+                                        <label for="Identificacion">Identificaci&oacute;n</label>
+                                        <input id="Identificacion" name="Identificacion" type="number" class="form-control" placeholder="Ingresar identificaci&oacute;n" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <div class="form-group">
+                                        <label for="Telefono">Tel&eacute;fono</label>
+                                        <input id="Telefono" name="Telefono" type="number" maxlength="15" class="form-control" placeholder="Ingresar tel&eacute;fono" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <label for="Barrio">Barrio</label>
+                                        <select class="form-control">
+                                            <option>Barrio1</option>
+                                            <option>Barrio2</option>
+                                            <option>Barrio3</option>
+                                            <option>Barrio4</option>
+                                            <option>Barrio5</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="form-group">
+                                        <label for="Correo">Correo electr&oacute;nico</label>
+                                        <input id="Correo" name="Correo" type="email" class="form-control" placeholder="correo@ejemplo.com" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <div class="form-group">
+                                        <label for="TipoRecurso">Tipo de Recurso</label>
+                                        <select class="form-control">
+                                            <option>Petici&oacute;n</option>
+                                            <option>Queja</option>
+                                            <option>Felicitaci&oacute;n</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <label for="Fecha">Fecha</label>
+                                        <input id="Fecha" name="Fecha" class="form-control datepicker" readonly required placeholder="Ingresar fecha" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="Situacion">Situaci&oacute;n presentada</label>
+                                    <textarea id="Situacion" name="Situacion" type="text" maxlength="500" class="form-control" placeholder="Por favor describa la petici&oacute;n, queja o felicitaci&oacute;n"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <button type="button" class="btn btn-primary center" data-dismiss="modal">Guardar</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+    </main>
+</div>
+<!-- Iconos -->
+<script>
+    feather.replace()
+</script>
+

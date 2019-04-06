@@ -1,0 +1,150 @@
+﻿@{
+    ViewBag.Title = "inventario";
+}
+
+<div class="container-fluid">
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="h2">Inventario</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <div class="btn-group mr-2">
+                            <button class="btn btn-sm btn-outline-secondary">Exportar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="">
+            <form id="deportista" name="deportista">
+                <div class="btn-toolbar mb-2 mb-md-0">
+                    <div class="btn-group mr-2">
+                        <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
+                    </div>
+                </div>
+                <br />
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Inventario de productos</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>C&oacute;digo</th>
+                                        <th>Nombre del producto</th>
+                                        <th>Concentraci&oacute;n</th>
+                                        <th>Cantidad disponible</th>
+                                        <th>Fecha de vencimiento</th>
+                                        <th>
+                                            <label>Editar</label>
+                                        </th>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <th>
+                                            <button type="button" class="btn btn-primary btn-xs" data-target="#md_editproducto" data-toggle="modal" title="Editar producto"><i class="fa fa-pencil" aria-hidden="true"></i></button>
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!--Modal para editar producto-->
+                <div id="md_editproducto" class="modal fade" role="dialog" tabindex="-1">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header mhsuccess alert alert-primary">
+                                <h4 class="modal-title">&nbsp;Editar Producto</h4>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="form-group">
+                                                <label class="control-label" for="Codigo">C&oacute;digo</label>
+                                                <input id="Codigo" name="Codigo" class="form-control" placeholder="" disabled />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label class="control-label" for="Producto">Producto</label>
+                                                <input id="Producto" name="Producto" type="text" class="form-control" placeholder="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="form-group">
+                                                <label class="control-label" for="editpresentacion">Presentaci&oacute;n</label>
+                                                <input id="editpresentacion" name="editpresentacion" type="text" class="form-control" placeholder="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="form-grouo">
+                                                <label class="control-label" for="Concentracion">concentraci&oacute;n</label>
+                                                <input id="Concentracion" name="Concentracion" type="text" class="form-control" placeholder="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="form-group">
+                                                <label class="control-label" for="Disponibilidad">Disponibilidad</label>
+                                                <input id="Disponibilidad" name="Disponibilidad" type="number" class="form-control" placeholder="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="form-group">
+                                                <label class="control-label" for="NumeroEstante">N&uacute;mero de estante</label>
+                                                <input id="NumeroEstante" name="NumeroEstante" type="text" class="form-control" placeholder="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label class="control-label" for="FechaInventario">Fecha de inventario</label>
+                                                <input id="FechaInventario" name="FechaInventario" class="form-control datepicker" readonly required placeholder="Ingresar fecha del inventario" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label class="control-label" for="FechaVencimiento">Fecha de vencimiento</label>
+                                                <input id="FechaVencimiento" name="FechaVencimiento" type="date" class="form-control datepicker" readonly required placeholder="Ingresar fecha de vencimiento" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-primary" data-dismiss="modal">Guardar cambios</button>
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+    </main>
+</div>
+<!-- Iconos -->
+<script>
+    feather.replace()
+</script>
+
+
+

@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "Reporte";
+}
+<div class="container-fluid">
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h2">Nuestros reportes</h1>
+            <div class="btn-toolbar mb-2 mb-md-0">
+                <div class="btn-group mr-2">
+                    <button class="btn btn-sm btn-outline-secondary">Exportar</button>
+                </div>
+            </div>
+        </div>
+        <div class="btn-toolbar mb-2 mb-md-0">
+            <div class="btn-group mr-2">
+                <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
+            </div>
+        </div>
+        <br />
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title">Productos pr&oacute;ximos a agotarse, entregas realizadas y felicitaciones recibidas</h4>
+            </div>
+            <div class="card-body">
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#Productos"><span class="fa fa-archive fa-lg"></span>&nbsp;Productos pr&oacute;ximos a agotarse</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#Entregas"><span class="fa fa-truck fa-lg"></span>&nbsp;Entregas realizadas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#Felicitaciones"><span class="fa fa-file-text fa-lg"></span>&nbsp;Felicitaciones recibidas</a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane container active" id="Productos">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Código del producto</th>
+                                    <th>Nombre</th>
+                                    <th>Concentraci&oacute;n</th>
+                                    <th>Presentaci&oacute;n</th>
+                                    <th>Fecha de inventario</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Acetaminofen</td>
+                                    <td>100mg</td>
+                                    <td>Tabletas</td>
+                                    <td>01/01/2017</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Loratadina</td>
+                                    <td>50mg</td>
+                                    <td>Tabletas</td>
+                                    <td>01/01/2018</td>
+                                </tr>
+                                <tr class="alert-danger">
+                                    <td>3</td>
+                                    <td>Esomeprazol</td>
+                                    <td>50mg</td>
+                                    <td>Polvo liofilizado</td>
+                                    <td>01/01/2019</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="tab-pane container fade" id="Entregas">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Nombre del domiciliario</th>
+                                    <th>N&uacute;mero de entregas realizadas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Natalia Morales Jaramillo</td>
+                                    <td>10</td>
+                                </tr>
+                                <tr>
+                                    <td>Anderson Torres Bedoya</td>
+                                    <td>19</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="tab-pane container fade" id="Felicitaciones">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Tipo PQF</th>
+                                    <th>N&uacute;mero de felicitaciones recibidas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Felicitaciones</td>
+                                    <td>30</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>

@@ -1,0 +1,190 @@
+﻿@{
+    ViewBag.Title = "domicilios";
+}
+
+<div class="container-fluid">
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <h1 class="h2">Domicilios</h1>
+                <div class="btn-toolbar mb-2 mb-md-0">
+                    <div class="btn-group mr-2">
+                        <button class="btn btn-sm btn-outline-secondary">Exportar</button>
+                    </div>
+                </div>
+            </div>
+            <form id="domicilio" name="domicilio" method="post" action="">
+                <div class="">
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <div class="btn-group mr-2">
+                            <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Registro del domicilio</h4>
+                            <div class="row">
+                                <label>Nuevo domicilio&nbsp;</label>
+                                <button type="button" class="btn btn-primary" data-target="#md_addDomicilio" data-toggle="modal" title="Editar">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!--Modal para editar producto-->
+                        <div id="md_addDomicilio" class="modal fade" role="dialog" tabindex="-1" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header mhsuccess alert alert-primary">
+                                        <h4 class="modal-title">&nbsp;Nuevo domicilio</h4>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="container-fluid">
+                                            <h5 class="card-subtitle">Formulario para el registro de domicilios</h5>
+                                            <div class="dropdown-divider"></div>
+                                            <div class="row">
+                                                <div class="col-sm-2">
+                                                    <div class="form-group">
+                                                        <label for="Codigo">C&oacute;digo</label>
+                                                        <input id="Codigo" name="Codigo" type="number" disabled class="form-control" placeholder="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-5">
+                                                    <div class="form-group">
+                                                        <label for="NombreProducto">Nombre del producto</label>
+                                                        <input id="NombreProducto" name="NombreProducto" type="text" maxlength="100" required class="form-control" placeholder="Producto" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-2">
+                                                    <div class="form-group">
+                                                        <label for="Concentracion">Concentraci&oacute;n</label>
+                                                        <input id="Concentracion" name="Concentracion" type="text" maxlength="10" required class="form-control" placeholder="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="form-group">
+                                                        <label for="Presentacion">Presentaci&oacute;n</label>
+                                                        <input id="Presentacion" name="presdom" type="text" maxlength="20" required class="form-control" placeholder="Presentaci&oacute;n" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-2">
+                                                    <div class="form-group">
+                                                        <label for="ValorUnitario">Valor unitario</label>
+                                                        <input id="ValorUnitario" name="ValorUnitario" type="number" maxlength="10" disabled class="form-control" placeholder="$" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-2">
+                                                    <div class="form-group">
+                                                        <label for="Cantidad">Cantidad</label>
+                                                        <input id="Cantidad" name="Cantidad" type="number" max="3" required class="form-control" placeholder="0" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-2">
+                                                    <div class="form-group">
+                                                        <label for="ValorTotal">Valor total</label>
+                                                        <input id="ValorTotal" name="ValorTotal" type="number" max="3" required class="form-control" placeholder="0" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="dropdown-divider"></div>
+                                            <!--</div>-->
+                                            <!--<div id="fregistr" class="tab-pane">-->
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">
+                                                        <label for="NombreUsuario">Nombre completo del usuario</label>
+                                                        <input id="NombreUsuario" name="NombreUsuario" type="text" maxlength="100" required class="form-control" placeholder="Nombre completo" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">
+                                                        <label for="IdUsuario">Identificaci&oacute;n del usuario</label>
+                                                        <input id="IdUsuario" name="IdUsuario" type="number" maxlength="30" required class="form-control" placeholder="N&uacute;mero de identificaci&oacute;n" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-3">
+                                                    <div class="form-group">
+                                                        <label for="DireccionUsuario">Direcci&oacute;n completa</label>
+                                                        <input id="DireccionUsuario" name="DireccionUsuario" type="text" maxlength="200" required class="form-control" placeholder="Direcci&oacute;n" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="form-group">
+                                                        <label for="TelefonoUsuario">T&eacute;lefono de contacto</label>
+                                                        <input id="TelefonoUsuario" name="TelefonoUsuario" type="tel" maxlength="100" required class="form-control" placeholder="T&eacute;lefono" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">
+                                                        <label for="Domiciliario">Domiciliario que entrega</label>
+                                                        <input id="Domiciliario" name="Domiciliario" type="text" maxlength="100" required class="form-control" placeholder="Nombre del domiciliario" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--</div>-->
+                                            <!--</div>-->
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="submit" class="btn btn-primary center" data-dismiss="modal">Guardar</button>
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-hover table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Nombre del domiciliario</th>
+                                            <th>Estado de entrega</th>
+                                            <th>N&uacute;mero de entregas</th>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+        </main>
+</div>
+<!-- Iconos -->
+<script>
+    feather.replace()
+</script>
+
+<script>
+    $(' #domicilio').submit(function (event) {
+
+        if ($(' #TelefonoUsuario').val().length < 10) {
+            MessageEvent('El número de documento debe' +
+                ' tener mínimo diez digitos');
+            return false;
+        }
+    });
+</script>

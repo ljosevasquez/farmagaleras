@@ -172,6 +172,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Barrio.cs" />
+    <Compile Include="Models\Domicilio.cs" />
+    <Compile Include="Models\Inventario.cs" />
+    <Compile Include="Models\Pqrf.cs" />
+    <Compile Include="Models\TipoRecurso.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -187,6 +192,7 @@
     <Content Include="Content\bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="Content\bootstrap\js\bootstrap.js" />
     <Content Include="Content\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Content\buttons.dataTables.min.css" />
     <Content Include="Content\datepicker\css\bootstrap-datepicker.css" />
     <Content Include="Content\datepicker\css\bootstrap-datepicker.min.css" />
     <Content Include="Content\datepicker\js\bootstrap-datepicker.js" />
@@ -264,6 +270,7 @@
     <Content Include="Content\datepicker\locales\bootstrap-datepicker.zh-CN.min.js" />
     <Content Include="Content\datepicker\locales\bootstrap-datepicker.zh-TW.min.js" />
     <Content Include="Content\images\fondo.jpg" />
+    <Content Include="Content\jquery.dataTables.min.css" />
     <Content Include="Content\otherjs\Chart.min.js" />
     <Content Include="Content\otherjs\feather.min.js" />
     <Content Include="Content\proyect\inicio.js" />
@@ -363,21 +370,36 @@
     <Content Include="Images\inicio-farmacia.jpg" />
     <Content Include="Images\inventario.png" />
     <Content Include="Images\pqrs.png" />
+    <Content Include="Scripts\buttons.html5.min.js" />
+    <Content Include="Scripts\buttons.print.min.js" />
+    <Content Include="Scripts\chart.loader.js" />
+    <Content Include="Scripts\Copia de pdfmake.min.js" />
+    <Content Include="Scripts\Copia de vfs_fonts.js" />
+    <Content Include="Scripts\dataTables.buttons.min.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.dataTables.min.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jszip.min.js" />
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
-    <Content Include="Web.config" />
+    <Content Include="Scripts\pdfmake.min.js" />
+    <Content Include="Scripts\vfs_fonts.js" />
+    <Content Include="Views\Reporte\FelicitacionesRecibidas.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -410,14 +432,33 @@
     <Content Include="Views\Inicio\inicio.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shared\_mylayout.cshtml" />
+    <Content Include="Views\Shared\_LayoutReporte.cshtml" />
+    <Content Include="Views\Reporte\EntregasRealizadas.cshtml" />
     <Content Include="Views\Reporte\Reporte.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{216b50f4-de94-4eed-8831-6e47457f3650}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{4dde00ca-6400-4374-a704-1bfaa61174ff}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repositorio\Repositorio.csproj">
+      <Project>{d682add5-0267-4f31-9169-174009c00ed8}</Project>
+      <Name>Repositorio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilidades\Utilidades.csproj">
+      <Project>{0826911b-ece3-4a07-96d4-9b05329797a0}</Project>
+      <Name>Utilidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

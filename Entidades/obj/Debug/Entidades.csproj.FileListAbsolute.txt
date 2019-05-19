@@ -1,0 +1,27 @@
+D:\Indicadores\farmagaleras-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Indicadores\farmagaleras-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Indicadores\farmagaleras-master\Entidades\bin\Debug\Entidades.dll
+D:\Indicadores\farmagaleras-master\Entidades\bin\Debug\Entidades.pdb
+D:\Indicadores\farmagaleras-master\Entidades\obj\Debug\Entidades.dll
+D:\Indicadores\farmagaleras-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Entidades\obj\Debug\Entidades.pdb
+D:\Informática avanzada\farmagaleras-master\Entidades\bin\Debug\Entidades.dll
+D:\Informática avanzada\farmagaleras-master\Entidades\bin\Debug\Entidades.pdb
+D:\Informática avanzada\farmagaleras-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Informática avanzada\farmagaleras-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Informática avanzada\farmagaleras-master\Entidades\obj\Debug\Entidades.dll
+D:\Informática avanzada\farmagaleras-master\Entidades\obj\Debug\Entidades.pdb
+D:\Proyecto\farmagaleras-master\Entidades\bin\Debug\Entidades.dll
+D:\Proyecto\farmagaleras-master\Entidades\bin\Debug\Entidades.pdb
+D:\Proyecto\farmagaleras-master\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Proyecto\farmagaleras-master\Entidades\obj\Debug\Entidades.dll
+D:\Proyecto\farmagaleras-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Downloads\farmagaleras-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\farmagaleras-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Downloads\farmagaleras-master\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\farmagaleras-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Downloads\farmagaleras-master\Entidades\obj\Debug\Entidades.pdb

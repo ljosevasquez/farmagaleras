@@ -1,5 +1,7 @@
 ﻿@{
     Layout = "~/Views/Shared/_mylayout.cshtml";
+    ViewBag.Title = "Iniciar sesión";
+
 }
 
 <section class="login-block">
@@ -88,7 +90,7 @@
         var done = 0;
         var usuario = document.login.usuario.value;
         var password = document.login.password.value;
-        if (usuario == "ljose.vasquez" && password == "CONTRASEÑA1") {
+        if (usuario == "ljose.vasquez" && password == "123") {
             window.location = "/Inicio/inicio";
 
         }
@@ -96,7 +98,7 @@
             window.location = "/Inicio/inicio";
         }
         if (usuario == "" && password == "") {
-            window.location = "errorpopup.html";
+            window.location = "#";
         }
     }
 </script>

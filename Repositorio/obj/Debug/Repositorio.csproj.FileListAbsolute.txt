@@ -1,0 +1,36 @@
+D:\Indicadores\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+D:\Indicadores\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Repositorio.dll
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Repositorio.pdb
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Entidades.dll
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Utilidades.dll
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Entidades.pdb
+D:\Indicadores\farmagaleras-master\Repositorio\bin\Debug\Utilidades.pdb
+D:\Indicadores\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+D:\Indicadores\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+D:\Indicadores\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Utilidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\bin\Debug\Utilidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+D:\Informática avanzada\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+D:\Informática avanzada\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+D:\Informática avanzada\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+D:\Informática avanzada\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+D:\Proyecto\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+D:\Proyecto\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+D:\Proyecto\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\User\Downloads\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\User\Downloads\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\User\Desktop\farmagaleras-master\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\farmagaleras-master\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\User\Desktop\farmagaleras-master\Repositorio\obj\Debug\Repositorio.pdb
+E:\farmagaleras\farmagaleras\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+E:\farmagaleras\farmagaleras\Repositorio\obj\Debug\Repositorio.dll
+E:\farmagaleras\farmagaleras\Repositorio\obj\Debug\Repositorio.pdb

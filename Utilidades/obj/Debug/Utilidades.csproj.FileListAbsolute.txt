@@ -1,0 +1,22 @@
+D:\Indicadores\farmagaleras-master\Utilidades\bin\Debug\Utilidades.dll
+D:\Indicadores\farmagaleras-master\Utilidades\bin\Debug\Utilidades.pdb
+D:\Indicadores\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+D:\Indicadores\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\Indicadores\farmagaleras-master\Utilidades\obj\Debug\Utilidades.dll
+D:\Indicadores\farmagaleras-master\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Utilidades\obj\Debug\Utilidades.pdb
+D:\Informática avanzada\farmagaleras-master\Utilidades\bin\Debug\Utilidades.dll
+D:\Informática avanzada\farmagaleras-master\Utilidades\bin\Debug\Utilidades.pdb
+D:\Informática avanzada\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+D:\Informática avanzada\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\Informática avanzada\farmagaleras-master\Utilidades\obj\Debug\Utilidades.dll
+D:\Informática avanzada\farmagaleras-master\Utilidades\obj\Debug\Utilidades.pdb
+D:\Proyecto\farmagaleras-master\Utilidades\bin\Debug\Utilidades.dll
+D:\Proyecto\farmagaleras-master\Utilidades\bin\Debug\Utilidades.pdb
+D:\Proyecto\farmagaleras-master\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+D:\Proyecto\farmagaleras-master\Utilidades\obj\Debug\Utilidades.dll
+D:\Proyecto\farmagaleras-master\Utilidades\obj\Debug\Utilidades.pdb

@@ -1,5 +1,5 @@
 ﻿@{
-    ViewBag.Title = "pqr";
+    ViewBag.Title = "Pqr";
 }
 
 <div class="container-fluid">
@@ -27,25 +27,12 @@
         </nav>
         -->
     <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-            <h1 class="h2">Registrar Petici&oacute;n, Quejas o Felicitaci&oacute;n</h1>
-            <div class="btn-toolbar mb-2 mb-md-0">
-                <div class="btn-group mr-2">
-                    <button class="btn btn-sm btn-outline-secondary">Exportar</button>
-                </div>
-            </div>
-        </div>
         <form action="" method="post">
             <div class="">
-                <div class="btn-toolbar mb-2 mb-md-0">
-                    <div class="btn-group mr-2">
-                        <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
-                    </div>
-                </div>
                 <br />
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">PQF</h4>
+                        <h4 class="card-title">Registrar Petici&oacute;n, Quejas o Felicitaci&oacute;n</h4>
                     </div>
                     <div class="card-body">
                         <div class="container-fluid">
@@ -53,13 +40,13 @@
                                 <div class="col-sm-8">
                                     <div class="form-group">
                                         <label for="NombreCompleto">Nombres completos</label>
-                                        <input id="NombreCompleto" name="NombreCompleto" type="text" class="form-control" placeholder="Ingresar nombre completo" />
+                                        <input id="NombreCompleto" name="NombreCompleto" type="text" class="form-control" required placeholder="Ingresar nombre completo" />
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="form-group">
                                         <label for="Identificacion">Identificaci&oacute;n</label>
-                                        <input id="Identificacion" name="Identificacion" type="number" class="form-control" placeholder="Ingresar identificaci&oacute;n" />
+                                        <input id="Identificacion" name="Identificacion" type="number" class="form-control" required placeholder="Ingresar identificaci&oacute;n" />
                                     </div>
                                 </div>
                             </div>
@@ -67,25 +54,42 @@
                                 <div class="col-sm-3">
                                     <div class="form-group">
                                         <label for="Telefono">Tel&eacute;fono</label>
-                                        <input id="Telefono" name="Telefono" type="number" maxlength="15" class="form-control" placeholder="Ingresar tel&eacute;fono" />
+                                        <input id="Telefono" name="Telefono" type="number" maxlength="15" class="form-control" required placeholder="Ingresar tel&eacute;fono" />
                                     </div>
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="form-group">
                                         <label for="Barrio">Barrio</label>
-                                        <select class="form-control">
-                                            <option>Barrio1</option>
-                                            <option>Barrio2</option>
-                                            <option>Barrio3</option>
-                                            <option>Barrio4</option>
-                                            <option>Barrio5</option>
+                                        <select class="form-control" required>
+                                            <option class="selected">Seleccionar</option>
+                                            <option value="Avenida Santander">Avenida Santander</option>
+                                            <option value="Bombona">Bombona</option>
+                                            <option value="Condominio Santiago">Condominio Santiago</option>
+                                            <option value="El Churo">El Churo</option>
+                                            <option value="El Olivo">El Olivo</option>
+                                            <option value="Fátima">Fátima</option>
+                                            <option value="Los Abedules">Los Abedules</option>
+                                            <option value="Medardo Bucheli">Medardo Bucheli</option>
+                                            <option value="Mercedario">Mercedario</option>
+                                            <option value="Normandia">Normand&iacute;a</option>
+                                            <option value="Nueva Colombia">Nueva Colombia</option>
+                                            <option value="Panamericano">Panamericano</option>
+                                            <option value="Prados del Oeste">Prados del Oeste</option>
+                                            <option value="Quintas de San Pedro">Quintas de San Pedro</option>
+                                            <option value="Rosales II">Rosales II</option>
+                                            <option value="San Felipe">San Felipe</option>
+                                            <option value="Tequendama">Tequendama</option>
+                                            <option value="Terranova">Terranova</option>
+                                            <option value="Villa Adriana María">Villa Adriana María</option>
+                                            <option value="Villa Recreo">Villa Recreo</option>
+                                            <option value="Villa Rocío">Villa Rocío</option>
                                         </select>
                                     </div>
                                 </div>
                                 <div class="col-sm-4">
                                     <div class="form-group">
                                         <label for="Correo">Correo electr&oacute;nico</label>
-                                        <input id="Correo" name="Correo" type="email" class="form-control" placeholder="correo@ejemplo.com" />
+                                        <input id="Correo" name="Correo" type="email" class="form-control" required placeholder="correo@ejemplo.com" />
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +97,7 @@
                                 <div class="col-sm-3">
                                     <div class="form-group">
                                         <label for="TipoRecurso">Tipo de Recurso</label>
-                                        <select class="form-control">
+                                        <select class="form-control" required>
                                             <option>Petici&oacute;n</option>
                                             <option>Queja</option>
                                             <option>Felicitaci&oacute;n</option>
@@ -109,14 +113,15 @@
                             </div>
                             <div class="row">
                                 <div class="col-12">
-                                    <label for="Situacion">Situaci&oacute;n presentada</label>
-                                    <textarea id="Situacion" name="Situacion" type="text" maxlength="500" class="form-control" placeholder="Por favor describa la petici&oacute;n, queja o felicitaci&oacute;n"></textarea>
+                                    <label for="SituacionPresentada">Situaci&oacute;n presentada</label>
+                                    <textarea id="Situacion" name="SituacionPresentada" maxlength="500" class="form-control" required placeholder="Por favor describa la petici&oacute;n, queja o felicitaci&oacute;n"></textarea>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="card-footer">
-                        <button type="button" class="btn btn-primary center" data-dismiss="modal">Guardar</button>
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                        <button type="reset" class="btn btn-secondary">Limpiar</button>
                     </div>
                 </div>
             </div>

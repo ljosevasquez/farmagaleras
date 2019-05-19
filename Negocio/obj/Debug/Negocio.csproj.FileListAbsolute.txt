@@ -1,0 +1,40 @@
+D:\Indicadores\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Indicadores\farmagaleras-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Negocio.dll
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Negocio.pdb
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Entidades.dll
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Repositorio.dll
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Utilidades.dll
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Entidades.pdb
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Repositorio.pdb
+D:\Indicadores\farmagaleras-master\Negocio\bin\Debug\Utilidades.pdb
+D:\Indicadores\farmagaleras-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Indicadores\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+D:\Indicadores\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Negocio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Repositorio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Utilidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Repositorio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\bin\Debug\Utilidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+D:\Informática avanzada\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Informática avanzada\farmagaleras-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Informática avanzada\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+D:\Informática avanzada\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+D:\Proyecto\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Proyecto\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+D:\Proyecto\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Downloads\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Downloads\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\farmagaleras-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\farmagaleras-master\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\farmagaleras-master\Negocio\obj\Debug\Negocio.pdb
+E:\farmagaleras\farmagaleras\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\farmagaleras\farmagaleras\Negocio\obj\Debug\Negocio.dll
+E:\farmagaleras\farmagaleras\Negocio\obj\Debug\Negocio.pdb

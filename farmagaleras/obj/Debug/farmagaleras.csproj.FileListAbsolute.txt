@@ -557,3 +557,631 @@ E:\Proyectos\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hant\System.Spatial.r
 E:\Proyectos\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
 E:\Proyectos\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.dll
 E:\Proyectos\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.pdb
+D:\Indicadores\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojAssemblyReference.cache
+D:\Indicadores\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csproj.CoreCompileInputs.cache
+D:\Indicadores\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\farmagaleras.dll.config
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+D:\Indicadores\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csproj.CopyComplete
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\farmagaleras.dll.config
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Entidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Negocio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Repositorio.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Utilidades.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Entidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Negocio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Repositorio.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Utilidades.pdb
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+C:\Users\Estudiante\Downloads\farmagaleras-master\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\farmagaleras.dll.config
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Entidades.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Negocio.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Repositorio.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Utilidades.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Entidades.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Negocio.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Repositorio.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Utilidades.pdb
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojAssemblyReference.cache
+D:\Informática avanzada\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csproj.CoreCompileInputs.cache
+D:\Informática avanzada\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csproj.CopyComplete
+D:\Informática avanzada\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+D:\Informática avanzada\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\farmagaleras.dll.config
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Entidades.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Negocio.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Repositorio.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Utilidades.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Entidades.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Negocio.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Repositorio.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Utilidades.pdb
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
+D:\Proyecto\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+D:\Proyecto\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Entidades.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Negocio.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Repositorio.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Utilidades.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Entidades.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Negocio.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Repositorio.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Utilidades.pdb
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\obj\Debug\RdlCompile.cache
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\obj\Debug\RdlCompile.compiled
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+C:\Users\User\Downloads\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\farmagaleras.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\farmagaleras.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Entidades.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\EntityFramework.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Negocio.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Repositorio.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Spatial.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Utilidades.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\WebGrease.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Entidades.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Negocio.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Repositorio.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Utilidades.pdb
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\EntityFramework.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.Tracing.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Web.Http.OData.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Data.Edm.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\Microsoft.Data.OData.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\System.Spatial.xml
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\EntityFramework.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Providers.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\de\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\es\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\fr\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\it\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ja\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ko\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\ru\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.dll
+C:\Users\User\Desktop\farmagaleras-master\farmagaleras\obj\Debug\farmagaleras.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\farmagaleras.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\farmagaleras.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Antlr3.Runtime.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Entidades.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\EntityFramework.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Data.Edm.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Data.OData.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Web.Infrastructure.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Negocio.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Newtonsoft.Json.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Repositorio.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Net.Http.Formatting.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Spatial.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Helpers.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.OData.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.Tracing.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.WebHost.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Mvc.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Optimization.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Providers.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Razor.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.Deployment.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.Razor.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Utilidades.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\WebGrease.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Entidades.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Negocio.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Repositorio.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Utilidades.pdb
+E:\farmagaleras\farmagaleras\farmagaleras\bin\EntityFramework.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Newtonsoft.Json.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Net.Http.Formatting.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Helpers.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.WebHost.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Mvc.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Razor.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.Deployment.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.WebPages.Razor.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.Tracing.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Web.Http.OData.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Data.Edm.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\Microsoft.Data.OData.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\System.Spatial.xml
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\EntityFramework.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Net.Http.Formatting.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Helpers.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Http.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Http.WebHost.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Mvc.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Optimization.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Providers.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Razor.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.WebPages.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Http.Tracing.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Web.Http.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\de\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\it\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\de\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\fr\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\it\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ja\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ko\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ru\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\de\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\es\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\fr\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\it\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ja\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ko\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\ru\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hans\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\bin\zh-Hant\System.Spatial.resources.dll
+E:\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.csprojResolveAssemblyReference.cache
+E:\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.dll
+E:\farmagaleras\farmagaleras\farmagaleras\obj\Debug\farmagaleras.pdb

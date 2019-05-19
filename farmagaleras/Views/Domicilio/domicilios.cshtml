@@ -1,55 +1,23 @@
 ﻿@{
-    ViewBag.Title = "domicilios";
+    ViewBag.Title = "Domicilios";
 }
 
 <div class="container-fluid">
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                <h1 class="h2">Domicilios</h1>
-                <div class="btn-toolbar mb-2 mb-md-0">
-                    <div class="btn-group mr-2">
-                        <button class="btn btn-sm btn-outline-secondary">Exportar</button>
-                    </div>
-                </div>
-            </div>
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
             <form id="domicilio" name="domicilio" method="post" action="">
                 <div class="">
-                    <div class="btn-toolbar mb-2 mb-md-0">
-                        <div class="btn-group mr-2">
-                            <input type="search" class="form-control" /><button class="btn btn-sm btn-outline-secondary">Buscar</button>
-                        </div>
-                    </div>
                     <br />
                     <div class="card">
                         <div class="card-header">
                             <h4 class="card-title">Registro del domicilio</h4>
-                            <div class="row">
-                                <label>Nuevo domicilio&nbsp;</label>
-                                <button type="button" class="btn btn-primary" data-target="#md_addDomicilio" data-toggle="modal" title="Editar">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </button>
-                            </div>
                         </div>
-
-                        <!--Modal para editar producto-->
-                        <div id="md_addDomicilio" class="modal fade" role="dialog" tabindex="-1" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-lg">
-                                <div class="modal-content">
-                                    <div class="modal-header mhsuccess alert alert-primary">
-                                        <h4 class="modal-title">&nbsp;Nuevo domicilio</h4>
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
-                                        </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="container-fluid">
-                                            <h5 class="card-subtitle">Formulario para el registro de domicilios</h5>
-                                            <div class="dropdown-divider"></div>
+                        <div class="card-body">
+                            <div class="container-fluid">
                                             <div class="row">
                                                 <div class="col-sm-2">
                                                     <div class="form-group">
-                                                        <label for="Codigo">C&oacute;digo</label>
-                                                        <input id="Codigo" name="Codigo" type="number" disabled class="form-control" placeholder="" />
+                                                        <label for="CodigoDomicilio">C&oacute;digo</label>
+                                                        <input id="CodigoDomicilio" name="CodigoDomicilio" type="number" required disabled class="form-control" placeholder="" />
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-5">
@@ -67,7 +35,7 @@
                                                 <div class="col-sm-3">
                                                     <div class="form-group">
                                                         <label for="Presentacion">Presentaci&oacute;n</label>
-                                                        <input id="Presentacion" name="presdom" type="text" maxlength="20" required class="form-control" placeholder="Presentaci&oacute;n" />
+                                                        <input id="Presentacion" name="Presentacion" type="text" maxlength="20" required class="form-control" placeholder="Presentaci&oacute;n" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -75,7 +43,7 @@
                                                 <div class="col-sm-2">
                                                     <div class="form-group">
                                                         <label for="ValorUnitario">Valor unitario</label>
-                                                        <input id="ValorUnitario" name="ValorUnitario" type="number" maxlength="10" disabled class="form-control" placeholder="$" />
+                                                        <input id="ValorUnitario" name="ValorUnitario" type="number" required maxlength="10" disabled class="form-control" placeholder="$" />
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-2">
@@ -109,6 +77,35 @@
                                                 </div>
                                             </div>
                                             <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="Barrio">Barrio</label>
+                                        <select class="form-control" required>
+                                            <option class="selected">Seleccionar</option>
+                                            <option value="Avenida Santander">Avenida Santander</option>
+                                            <option value="Bombona">Bombona</option>
+                                            <option value="Condominio Santiago">Condominio Santiago</option>
+                                            <option value="El Churo">El Churo</option>
+                                            <option value="El Olivo">El Olivo</option>
+                                            <option value="Fátima">Fátima</option>
+                                            <option value="Los Abedules">Los Abedules</option>
+                                            <option value="Medardo Bucheli">Medardo Bucheli</option>
+                                            <option value="Mercedario">Mercedario</option>
+                                            <option value="Normandia">Normand&iacute;a</option>
+                                            <option value="Nueva Colombia">Nueva Colombia</option>
+                                            <option value="Panamericano">Panamericano</option>
+                                            <option value="Prados del Oeste">Prados del Oeste</option>
+                                            <option value="Quintas de San Pedro">Quintas de San Pedro</option>
+                                            <option value="Rosales II">Rosales II</option>
+                                            <option value="San Felipe">San Felipe</option>
+                                            <option value="Tequendama">Tequendama</option>
+                                            <option value="Terranova">Terranova</option>
+                                            <option value="Villa Adriana María">Villa Adriana María</option>
+                                            <option value="Villa Recreo">Villa Recreo</option>
+                                            <option value="Villa Rocío">Villa Rocío</option>
+                                        </select>
+                                    </div>
+                                </div>
                                                 <div class="col-sm-3">
                                                     <div class="form-group">
                                                         <label for="DireccionUsuario">Direcci&oacute;n completa</label>
@@ -121,51 +118,22 @@
                                                         <input id="TelefonoUsuario" name="TelefonoUsuario" type="tel" maxlength="100" required class="form-control" placeholder="T&eacute;lefono" />
                                                     </div>
                                                 </div>
+                                            </div>
+                                <div class="row">
                                                 <div class="col-sm-6">
                                                     <div class="form-group">
                                                         <label for="Domiciliario">Domiciliario que entrega</label>
                                                         <input id="Domiciliario" name="Domiciliario" type="text" maxlength="100" required class="form-control" placeholder="Nombre del domiciliario" />
                                                     </div>
                                                 </div>
-                                            </div>
+                                </div>
                                             <!--</div>-->
                                             <!--</div>-->
                                         </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="submit" class="btn btn-primary center" data-dismiss="modal">Guardar</button>
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="card-body">
-                            <div class="table-responsive">
-                                <table class="table table-hover table-striped">
-                                    <thead>
-                                        <tr>
-                                            <th>Nombre del domiciliario</th>
-                                            <th>Estado de entrega</th>
-                                            <th>N&uacute;mero de entregas</th>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                        </tr>
-                                    </thead>
-                                    <tbody></tbody>
-                                </table>
-                            </div>
                         </div>
                         <div class="card-footer">
+                                        <button type="submit" class="btn btn-primary center">Guardar</button>
+                                        <button type="reset" class="btn btn-secondary">Limpiar</button>
                         </div>
                     </div>
                 </div>
